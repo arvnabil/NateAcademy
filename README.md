@@ -5,5 +5,5 @@ Project NateAcademy adalah sebuah aplikasi sebagai penyelesaian tugas Submission
 ![Gambar View 1](https://github.com/arvnabil/NateAcademy/blob/master/Screenshot/view%201.jpeg)
 ![Gambar View 1](https://github.com/arvnabil/NateAcademy/blob/master/Screenshot/view%202.jpeg)
 ![Gambar View 1](https://github.com/arvnabil/NateAcademy/blob/master/Screenshot/view%203.jpeg)
-![Gambar View 1](https://github.com/arvnabil/NateAcademy/blob/master/Screenshot/view%204.jpeg)
+![Gambar View 1](https://github.com/arvnabil/NateAcademy/blob/master/Screenshot/view%204%20.jpeg)
 ![Gambar View 1](https://github.com/arvnabil/NateAcademy/blob/master/Screenshot/view%205.jpeg)
